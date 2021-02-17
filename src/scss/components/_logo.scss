@@ -1,0 +1,8 @@
+@import '../base/theme';
+.logo {
+  font-family: 'Permanent Marker', cursive !important;
+  font-size: 60px;
+  h1 {
+    color: var(--color-button) !important;
+  }
+}

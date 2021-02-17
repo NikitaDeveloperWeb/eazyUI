@@ -1,0 +1,12 @@
+// base
+@import './base/normalize', './base/theme';
+// components
+@import './components/logo', './components/button', './components/panelSetting';
+// pages
+@import './pages/home';
+// layout
+@import './layout/layout';
+.app {
+  width: 100%;
+  height: 100%;
+}
