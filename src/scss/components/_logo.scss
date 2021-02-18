@@ -1,7 +1,14 @@
 @import '../base/theme';
-.logo {
+.logo-pr {
   font-family: 'Permanent Marker', cursive !important;
   font-size: 60px;
+  h1 {
+    color: var(--color-button) !important;
+  }
+}
+.logo-min {
+  font-family: 'Permanent Marker', cursive !important;
+  font-size: 30px;
   h1 {
     color: var(--color-button) !important;
   }

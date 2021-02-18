@@ -6,7 +6,9 @@ function PanelSetting() {
   return (
     <div className="panelSetting">
       <Brightness5Icon />
-      <GitHubIcon />
+      <a href="https://github.com/NikitaDeveloperWeb/EazyUIComponents">
+        <GitHubIcon />
+      </a>
     </div>
   );
 }

@@ -1,8 +1,10 @@
 import React from 'react';
-
-function Logo() {
+interface LogoProps {
+  className: 'logo-pr' | 'logo-min';
+}
+function Logo({ className }: LogoProps) {
   return (
-    <div className="logo">
+    <div className={className}>
       <h1>EUI</h1>
     </div>
   );

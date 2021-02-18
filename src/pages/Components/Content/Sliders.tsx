@@ -1,7 +1,7 @@
 import React from 'react';
 
-function Workspase() {
+function Sliders() {
   return <div></div>;
 }
 
-export default Workspase;
+export default Sliders;

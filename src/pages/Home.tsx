@@ -12,7 +12,7 @@ function Home() {
       <PanelSetting />
       <div className="home__intro">
         <div className="home__intro__logo">
-          <Logo />
+          <Logo className="logo-pr" />
         </div>
         <div className="home__intro__preview">
           <h1>EAZY-UI</h1>

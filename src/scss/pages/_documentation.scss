@@ -1,0 +1,53 @@
+.documentation {
+  width: inherit;
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  overflow-y: scroll;
+  font-family: 'Roboto';
+  &__info {
+    margin-top: 20px;
+    border: 1px solid var(--color-border-sign);
+    padding: 5px;
+    border-radius: 5px;
+    background: #fff;
+    min-width: 400px;
+    max-width: 800px;
+    text-align: center;
+    strong {
+      background: inherit;
+      color: var(--color-button);
+      a {
+        background: inherit;
+      }
+    }
+    &__comands {
+      background: inherit;
+      width: inherit;
+      color: var(--color-button);
+    }
+  }
+  &__line {
+    width: inherit;
+    height: 1px;
+    background: var(--color-font);
+    margin-top: 10px;
+    opacity: 0.2;
+  }
+  &__block {
+    padding: 2px;
+    width: 100%;
+    h2 {
+      cursor: pointer;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .close {
+      display: none;
+    }
+  }
+}

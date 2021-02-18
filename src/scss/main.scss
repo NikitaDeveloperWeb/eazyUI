@@ -1,9 +1,10 @@
 // base
 @import './base/normalize', './base/theme';
 // components
-@import './components/logo', './components/button', './components/panelSetting';
+@import './components/logo', './components/button', './components/panelSetting',
+  './components/aside';
 // pages
-@import './pages/home';
+@import './pages/home', './pages/documentation', './pages/components', './pages/aboutUs';
 // layout
 @import './layout/layout';
 .app {
