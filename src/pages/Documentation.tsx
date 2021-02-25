@@ -17,6 +17,24 @@ function Documentation() {
           git clone https://github.com/NikitaDeveloperWeb/EazyUIComponents
         </div>
       </p>
+      <p className="documentation__info">Импортируйте необходимый вам компонент в ваш проект.</p>
+      <p className="documentation__info">
+        Версии технологий используемые для этого проекта:
+        <br />
+        <br />
+        <div className="documentation__info__comands">"react":"^17.0.1"</div>
+        <br />
+        <div className="documentation__info__comands">"typescript":"^4.1.2"</div>
+        <br />
+        <div className="documentation__info__comands">"@emotion/react":"^11.1.5"</div>
+        <br />
+        <div className="documentation__info__comands">"@emotion/styled":"^11.1.5"</div>
+        <br />
+        <div className="documentation__info__comands">"@material-ui/core":"^4.11.3"</div>
+        <br />
+        <div className="documentation__info__comands">"@material-ui/icons":"^4.11.2"</div>
+        <br />
+      </p>
       <div className="documentation__line"></div>
       <DocumentationBlock
         title="Контейнеры"
