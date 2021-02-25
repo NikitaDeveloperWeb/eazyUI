@@ -11,6 +11,7 @@ function DocumentationBlock({ title, description }: DocumetationBlockProps) {
   const handlerOpen = (state: boolean) => {
     setOpen(!state);
   };
+
   return (
     <div className="documentation__block">
       <h2

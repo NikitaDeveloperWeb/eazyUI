@@ -1,5 +1,21 @@
 .components {
+  font-family: 'Roboto';
   width: inherit;
   height: 100%;
   padding: 20px;
+  overflow-y: scroll;
+  flex-direction: column;
+  h1,
+  h3 {
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--color-font);
+  }
+  &__preview {
+    padding: 20px;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
 }
