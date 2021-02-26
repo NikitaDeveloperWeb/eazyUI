@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/eazyUI/static/css/main.b108c6e3.chunk.css",
-    "main.js": "/eazyUI/static/js/main.beef9c54.chunk.js",
-    "main.js.map": "/eazyUI/static/js/main.beef9c54.chunk.js.map",
+    "main.js": "/eazyUI/static/js/main.b4cf15fb.chunk.js",
+    "main.js.map": "/eazyUI/static/js/main.b4cf15fb.chunk.js.map",
     "runtime-main.js": "/eazyUI/static/js/runtime-main.e016241f.js",
     "runtime-main.js.map": "/eazyUI/static/js/runtime-main.e016241f.js.map",
-    "static/js/2.8995f160.chunk.js": "/eazyUI/static/js/2.8995f160.chunk.js",
-    "static/js/2.8995f160.chunk.js.map": "/eazyUI/static/js/2.8995f160.chunk.js.map",
+    "static/js/2.a25772ca.chunk.js": "/eazyUI/static/js/2.a25772ca.chunk.js",
+    "static/js/2.a25772ca.chunk.js.map": "/eazyUI/static/js/2.a25772ca.chunk.js.map",
     "index.html": "/eazyUI/index.html",
     "static/css/main.b108c6e3.chunk.css.map": "/eazyUI/static/css/main.b108c6e3.chunk.css.map",
-    "static/js/2.8995f160.chunk.js.LICENSE.txt": "/eazyUI/static/js/2.8995f160.chunk.js.LICENSE.txt",
+    "static/js/2.a25772ca.chunk.js.LICENSE.txt": "/eazyUI/static/js/2.a25772ca.chunk.js.LICENSE.txt",
     "static/media/avatar.1fc1a63a.jpg": "/eazyUI/static/media/avatar.1fc1a63a.jpg",
     "static/media/maxresdefault.65cba8bc.jpg": "/eazyUI/static/media/maxresdefault.65cba8bc.jpg",
     "static/media/shinobu.e7a88f82.jpg": "/eazyUI/static/media/shinobu.e7a88f82.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e016241f.js",
-    "static/js/2.8995f160.chunk.js",
+    "static/js/2.a25772ca.chunk.js",
     "static/css/main.b108c6e3.chunk.css",
-    "static/js/main.beef9c54.chunk.js"
+    "static/js/main.b4cf15fb.chunk.js"
   ]
 }
