@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eazyUI/static/css/main.b108c6e3.chunk.css",
-    "main.js": "/eazyUI/static/js/main.d4119757.chunk.js",
-    "main.js.map": "/eazyUI/static/js/main.d4119757.chunk.js.map",
+    "main.js": "/eazyUI/static/js/main.0a59d1ee.chunk.js",
+    "main.js.map": "/eazyUI/static/js/main.0a59d1ee.chunk.js.map",
     "runtime-main.js": "/eazyUI/static/js/runtime-main.e016241f.js",
     "runtime-main.js.map": "/eazyUI/static/js/runtime-main.e016241f.js.map",
     "static/js/2.8995f160.chunk.js": "/eazyUI/static/js/2.8995f160.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e016241f.js",
     "static/js/2.8995f160.chunk.js",
     "static/css/main.b108c6e3.chunk.css",
-    "static/js/main.d4119757.chunk.js"
+    "static/js/main.0a59d1ee.chunk.js"
   ]
 }
